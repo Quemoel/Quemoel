@@ -29,7 +29,8 @@ Apaixonado por desbloquear o potencial oculto nos dados, tenho um histórico com
 - [**Análise de Gastos dos Senadores**](https://github.com/Quemoel/analise-gastos-senadores.git) - Ferramenta de análise para auditoria de gastos por senadores brasileiros.
 - [**Desafio de Processamento de Dados**](https://github.com/Quemoel/Desafio_data_proc.git) - Projeto focado em desafios de processamento de dados.
 - [**Sistema de Detecção de Fraudes**](https://github.com/Quemoel/FraudDetectX.git) - Modelo de aprendizado de máquina para detectar atividades fraudulentas.
-
+- [**Previsão de Empréstimos da Biblioteca**](https://github.com/Quemoel/7_Days_of_Code_Alura-Python-Pandas) - Previsão de Empréstimos da Biblioteca.
+  
 ### Algoritmos e Otimização
 - [**Algoritmos para Pesquisa, Classificação e Indexação**](https://github.com/Quemoel/Algoritmos-para-pesquisa-classifica-o-e-indexa-o.git) - Implementações de vários algoritmos em Python.
 - [**Desafio de Projeto**](https://github.com/Quemoel/Desafio_de_Projeto.git) - Projeto desafio para resolver problemas algorítmicos complexos.
